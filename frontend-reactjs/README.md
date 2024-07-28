@@ -1,6 +1,6 @@
 # simple authentication app with reactjs + tailwind + nextui 
 
-first<br> you must install node_packages. so type ```pnpm install```
+first<br> you must install node_packages. so open terminal and enter ```pnpm install```
 # DANGER, DONT USE "NPM" USE "PNPM"
 
 <br>
