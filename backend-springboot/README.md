@@ -27,7 +27,7 @@ Welcome to **Fullstack Template!** This repository is a comprehensive template f
 ## Backend Setup
 
 ### Clone the repository:
-`git clone https://github.com/yourusername/fullstack-template.git
+`git clone https://github.com/emirhankarakoc/fullstack-template.git
 cd fullstack-template`
 
 ### Navigate to the backend directory:
