@@ -25,7 +25,7 @@ Welcome to **Fullstack Template!** This repository is a comprehensive template f
 - npm or Yarn
 
 ## Backend Setup
-``
+
 Clone the repository:
 `git clone https://github.com/yourusername/fullstack-template.git
 cd fullstack-template`
@@ -58,4 +58,4 @@ For any questions or suggestions, feel free to open an issue or contact us direc
 
 `Happy coding! 😄`
 emirhan karakoc, july 2024
-``
+
