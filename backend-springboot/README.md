@@ -47,7 +47,7 @@ Start the development server:
 `pnpm run dev`
 
 ## Project Structure
-backend/: Contains the Spring Boot application code.
+backend/: Contains the Spring Boot application code.<br>
 frontend/: Contains the React.js application code.
 ## Contributing
 We welcome contributions to this project! Please fork the repository and submit a pull request with your proposed changes. Ensure to follow the project's coding standards and test your changes before submitting.
