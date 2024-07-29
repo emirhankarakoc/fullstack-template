@@ -26,24 +26,26 @@ Welcome to **Fullstack Template!** This repository is a comprehensive template f
 
 ## Backend Setup
 
-Clone the repository:
+### Clone the repository:
 `git clone https://github.com/yourusername/fullstack-template.git
 cd fullstack-template`
 
-Navigate to the backend directory:
+### Navigate to the backend directory:
 `cd backend` 
 Build and run the Spring Boot application:
 `./mvnw spring-boot:run`
 
 
-Frontend Setup
+## Frontend Setup
 Navigate to the frontend directory:
 `cd ../frontend`
+<br>
 Install dependencies:
 `pnpm install`
+<br>
 *important, use pnpm. not npm. pnpm is faster trust me.
 
-Start the development server:
+### Start the development server:
 `pnpm run dev`
 
 ## Project Structure
