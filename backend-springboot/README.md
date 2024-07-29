@@ -25,25 +25,26 @@ Welcome to **Fullstack Template!** This repository is a comprehensive template f
 - npm or Yarn
 
 ## Backend Setup
+``
 Clone the repository:
-```git clone https://github.com/yourusername/fullstack-template.git
-cd fullstack-template```
+`git clone https://github.com/yourusername/fullstack-template.git
+cd fullstack-template`
 
 Navigate to the backend directory:
- cd backend 
+`cd backend` 
 Build and run the Spring Boot application:
-./mvnw spring-boot:run
+`./mvnw spring-boot:run`
 
 
 Frontend Setup
 Navigate to the frontend directory:
-cd ../frontend
+`cd ../frontend`
 Install dependencies:
-pnpm install
+`pnpm install`
 *important, use pnpm. not npm. pnpm is faster trust me.
 
 Start the development server:
-pnpm run dev
+`pnpm run dev`
 
 ## Project Structure
 backend/: Contains the Spring Boot application code.
@@ -52,8 +53,9 @@ frontend/: Contains the React.js application code.
 We welcome contributions to this project! Please fork the repository and submit a pull request with your proposed changes. Ensure to follow the project's coding standards and test your changes before submitting.
 
 ## Contact
-emirhankarakoc@yahoo.com
+`emirhankarakoc@yahoo.com`
 For any questions or suggestions, feel free to open an issue or contact us directly.
 
-Happy coding! 😄
+`Happy coding! 😄`
 emirhan karakoc, july 2024
+``
