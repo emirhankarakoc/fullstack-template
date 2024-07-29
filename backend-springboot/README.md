@@ -16,6 +16,11 @@ Welcome to **Fullstack Template!** This repository is a comprehensive template f
 - TypeScript: Adds type safety to your JavaScript code, making it easier to maintain and refactor.
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 - NextUI: A modern React UI library with a focus on ease of use and customizability.
+- Login & Register screens with backend connections
+  ![register](https://github.com/user-attachments/assets/0392139d-4dac-49b8-8260-40f844cb44c5)
+  ![login](https://github.com/user-attachments/assets/e4936649-4cbd-4fc5-a055-8fae4747acfb)
+
+
 
 ## Getting Started
 ## Prerequisites
