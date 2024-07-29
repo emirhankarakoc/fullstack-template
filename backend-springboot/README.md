@@ -7,9 +7,9 @@ Welcome to **Fullstack Template!** This repository is a comprehensive template f
 ### Backend
 - Spring Boot: A powerful framework for creating production-grade Spring-based applications.
 - Spring Security: Provides customizable authentication and access control for your application.
-- Spring Data JPA: Simplifies database interactions with a clean, repository-based approach.
-- Static File Serving: Efficiently serves static resources.
-- Custom API Exceptions: Handle and customize exceptions in a user-friendly way.
+- Spring Data JPA: Simplifies database interactions with a clean, repository-based approach.(Includes crud applications for User entity)
+- Static File Serving: Efficiently serves static resources. (please dont use mine)
+- Custom API Exceptions: Handle and customize exceptions in a user-friendly way. `throw new BadRequestException("your message")`
 
 ## Frontend
 - React.js: A declarative, efficient, and flexible JavaScript library for building user interfaces.
