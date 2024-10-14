@@ -1,7 +1,6 @@
 package com.karakoc.sofra.exceptions.strings;
 
 import lombok.Data;
-import lombok.Getter;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
