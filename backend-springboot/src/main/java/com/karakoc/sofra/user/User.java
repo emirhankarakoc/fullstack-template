@@ -4,6 +4,7 @@ package com.karakoc.sofra.user;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 import lombok.Data;
 import org.w3c.dom.stylesheets.LinkStyle;
 
@@ -12,6 +13,7 @@ import java.util.List;
 
 @Data
 @Entity
+@Table(name = "users") // user yerine users kullanılması önerilir
 public class User {
     //buraya birsey eklersen, gidip UserPrincipal'a da ekle. orasi senin db scheman gibi birseyin.
     @Id

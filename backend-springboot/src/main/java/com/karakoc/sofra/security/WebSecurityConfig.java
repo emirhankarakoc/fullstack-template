@@ -52,6 +52,7 @@ public class WebSecurityConfig {
                         .requestMatchers("/hello/**").permitAll() //test controller endpoints
                         .requestMatchers("/accounts/**").permitAll() //login - register endpoints
                         .requestMatchers("/users/**").permitAll()
+                        .requestMatchers("/r2/**").permitAll()
                         .requestMatchers("/admin/**").hasRole("ADMIN")
                         .anyRequest().authenticated()
                 );
